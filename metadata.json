@@ -1,0 +1,8 @@
+{
+  "name": "NexMetal Works",
+  "description": "NexMetal Works – Precision metal fabrication, structural welding, and custom metalwork services for residential, commercial, and industrial projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
